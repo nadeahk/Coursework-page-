@@ -1,0 +1,21 @@
+h1 { color: white;
+  font-style: oblique
+  
+}
+h2{ color: purple; 
+   font-style: oblique
+  
+ 
+}
+body {
+   background-image: url("https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/3893733/300/200/m1/fpc/wm0/jxldv0fzfb3zcv0stckfrxmcevpozupkhaexhj7ikfujch2thdwkjoqfaglnyds8-.jpg?1516738560&s=f60cf0eb728171cad619f8d695b65331"); 
+    background-position: center; 
+    background-size: cover;} 
+p { color: white; 
+   font-style: oblique
+  
+}
+li{ color:white; 
+   font-style: oblique
+}
+}

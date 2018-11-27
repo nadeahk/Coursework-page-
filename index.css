@@ -5,18 +5,9 @@ body {
     background-position: center; 
     background-size: cover;
     padding: 35px; 
-    font-style: italic; } 
+    font-style: italic;
+    color: pink; } 
 
    
-h2 { font-color: pink; 
-   }
-} 
-p {  font-color: pink; 
-  
-}
-li 
-{font-color:pink; 
-
-}
 
 

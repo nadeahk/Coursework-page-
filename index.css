@@ -8,14 +8,17 @@ h2{ color: purple;
  
 }
 body {
-   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHL2sdhpxnP47EPwlWjGHiWr3EsFSOlpzdJB-SsxHJkvBsogGD"); 
+   background-image: url("https://i.pinimg.com/originals/38/e6/86/38e6861341132a1ee298c9725c6c67a5.jpg"); 
     background-position: center; 
-    background-size: cover;} 
-p { color: white; 
+    background-size: cover;
+    padding: 35px; 
+    font-style: italic; 
+} 
+p { color: pink; 
    font-style: oblique
   
 }
-li{ color:white; 
+li{ color:pink; 
    font-style: oblique
 }
 

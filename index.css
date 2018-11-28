@@ -5,7 +5,9 @@ body {
     background-size: cover;
     padding: 35px; 
     font-style: italic;
-    color: pink; } 
+    color: pink;
+   font-size: 24px; 
+} 
 
    
 
